@@ -1,5 +1,5 @@
 # tnes2inesGUI
-A GUI rewrite of my CLI tnes2ines converter.
+A GUI implementation of my CLI tnes2ines converter.
 
 ### Description
 A tool to convert the proprietary TNES NES rom format (used in the 3ds VC NES releases and more) to INES 1.0. It can also extract the prg and chr sections from TNES roms and the FDS bios and .qd's from .tds files
